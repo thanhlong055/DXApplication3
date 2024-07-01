@@ -3,5 +3,7 @@
   <NavigationItems NavigationStyle="Accordion">
   </NavigationItems>
   <Views DefaultListEditor="DevExpress.ExpressApp.Blazor.Editors.DxGridListEditor">
+  
+
   </Views>
 </Application>

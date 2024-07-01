@@ -4,7 +4,8 @@ The "Images" project folder is intended for storing custom image files.
 
 
 Relevant Documentation
-
+#Relevant
+#Master
 Add and Override Images
 https://docs.devexpress.com/eXpressAppFramework/112792
 
