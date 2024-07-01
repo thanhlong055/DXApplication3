@@ -20,6 +20,9 @@ https://docs.devexpress.com/eXpressAppFramework/112569
 XAF Community Extensions
 https://www.devexpress.com/products/net/application_framework/#extensions
 
+XAF User Guide
+https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework
+
 Debugging, Unit and Functional Testing
 https://docs.devexpress.com/eXpressAppFramework/112572
 
